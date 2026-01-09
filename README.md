@@ -12,7 +12,7 @@ This is a console-based Word Guessing Game developed using Python. The game rand
 - Game history storage using file handling
 - Option to view and clear history
 - Modular code using functions
-- <br>
+ <br>
 
 ## Technologies Used
 - Python
